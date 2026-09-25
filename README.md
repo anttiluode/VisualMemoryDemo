@@ -1,5 +1,7 @@
 # VisualMemoryDemo
 
+![pic](pic.png)
+
 A small local camera/video experiment: **can a fixed number of visual memory slots remember something after a recent-only buffer has forgotten it?** The left image colors patches by their nearest memory slot. Click a patch to see its closest match from **before the current frame**, side by side for similarity merge and a recent-only memory with the same number of slots.
 
 ## Run
